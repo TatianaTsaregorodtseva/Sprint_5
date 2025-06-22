@@ -7,6 +7,7 @@
 - test_registration.py    # Тесты для регистрации
 2. conftest               # Фикстуры
 3. locators               # Локаторы
+4. email                  # Эл.почта
 
 
 
